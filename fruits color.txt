@@ -1,3 +1,4 @@
 apple = red color
 banana = yello color
 guava = green color
+orange = orange color
