@@ -1,10 +1,6 @@
 hello! i am addon file.
-
 !!!
-
 h
 
-wow
-
-two + two = five
-
+change me:
+2 + 2 = 4
